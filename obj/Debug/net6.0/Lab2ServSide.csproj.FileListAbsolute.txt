@@ -1,0 +1,15 @@
+C:\Users\gqfri\source\repos\Lab2ServSide\Lab2ServSide\bin\Debug\net6.0\Lab2ServSide.exe
+C:\Users\gqfri\source\repos\Lab2ServSide\Lab2ServSide\bin\Debug\net6.0\Lab2ServSide.deps.json
+C:\Users\gqfri\source\repos\Lab2ServSide\Lab2ServSide\bin\Debug\net6.0\Lab2ServSide.runtimeconfig.json
+C:\Users\gqfri\source\repos\Lab2ServSide\Lab2ServSide\bin\Debug\net6.0\Lab2ServSide.dll
+C:\Users\gqfri\source\repos\Lab2ServSide\Lab2ServSide\bin\Debug\net6.0\Lab2ServSide.pdb
+C:\Users\gqfri\source\repos\Lab2ServSide\Lab2ServSide\obj\Debug\net6.0\Lab2ServSide.csproj.AssemblyReference.cache
+C:\Users\gqfri\source\repos\Lab2ServSide\Lab2ServSide\obj\Debug\net6.0\Lab2ServSide.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gqfri\source\repos\Lab2ServSide\Lab2ServSide\obj\Debug\net6.0\Lab2ServSide.AssemblyInfoInputs.cache
+C:\Users\gqfri\source\repos\Lab2ServSide\Lab2ServSide\obj\Debug\net6.0\Lab2ServSide.AssemblyInfo.cs
+C:\Users\gqfri\source\repos\Lab2ServSide\Lab2ServSide\obj\Debug\net6.0\Lab2ServSide.csproj.CoreCompileInputs.cache
+C:\Users\gqfri\source\repos\Lab2ServSide\Lab2ServSide\obj\Debug\net6.0\Lab2ServSide.dll
+C:\Users\gqfri\source\repos\Lab2ServSide\Lab2ServSide\obj\Debug\net6.0\refint\Lab2ServSide.dll
+C:\Users\gqfri\source\repos\Lab2ServSide\Lab2ServSide\obj\Debug\net6.0\Lab2ServSide.pdb
+C:\Users\gqfri\source\repos\Lab2ServSide\Lab2ServSide\obj\Debug\net6.0\Lab2ServSide.genruntimeconfig.cache
+C:\Users\gqfri\source\repos\Lab2ServSide\Lab2ServSide\obj\Debug\net6.0\ref\Lab2ServSide.dll
